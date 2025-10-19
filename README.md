@@ -4,7 +4,10 @@ A modern, minimalistic admin dashboard for managing PC inventory and sales analy
 here a short video demo:
 
 
-Uploading 2025-10-19 13-47-51.mp4…
+
+https://github.com/user-attachments/assets/4b656f4b-1506-48e4-a04d-a7dbbec513c0
+
+
 
 
 
