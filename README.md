@@ -191,5 +191,5 @@ Stockpc/
 MIT
 
 ## 👥 Contributors
-
+- Salma (@Salmamerch)
 - Adam (@AdamBfID)
