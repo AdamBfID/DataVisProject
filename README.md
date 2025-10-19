@@ -1,6 +1,13 @@
 # MegaPC Admin Dashboard
 
 A modern, minimalistic admin dashboard for managing PC inventory and sales analytics.
+here a short video demo:
+
+
+Uploading 2025-10-19 13-47-51.mp4…
+
+
+
 
 ##  Features
 
